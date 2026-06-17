@@ -119,7 +119,7 @@
 
 ##### 3.1. 홈 화면
 
-<img width="3024" height="1902" alt="Image" src="https://github.com/user-attachments/assets/ed559e7a-c9f1-44f6-ba0b-c0d52551247c" />
+<img width="3020" height="1712" alt="Image" src="https://github.com/user-attachments/assets/84702c70-7ec1-497b-97f1-94ea9ff8f63e" />
 
 | 요소 | 설명 |
 | --- | --- |
@@ -140,7 +140,7 @@
 
 ###### 3.2.1. 로비 화면
 
-<img width="3032" height="1903" alt="Image" src="https://github.com/user-attachments/assets/e967199f-279c-4410-8ae1-13cc51df7e14" />
+<img width="3022" height="1898" alt="Image" src="https://github.com/user-attachments/assets/240c2637-5299-4c38-96b4-8a8bbce5071c" />
 
 | 요소 | 설명 |
 | --- | --- |
@@ -161,7 +161,7 @@
 
 ###### 3.2.2. 방 만들기 클릭했을 때 화면
 
-<img width="3024" height="1901" alt="Image" src="https://github.com/user-attachments/assets/23c4660a-24be-4d39-828f-2ed8aba0b240" />
+<img width="3020" height="1716" alt="Image" src="https://github.com/user-attachments/assets/6db1062f-a19e-4279-a566-d09b38f19540" />
 
 | 요소 | 설명 |
 | --- | --- |
@@ -175,7 +175,7 @@
 
 ###### 3.3.1. 게임시작 전
 
-<img width="3020" height="1716" alt="Image" src="https://github.com/user-attachments/assets/6db1062f-a19e-4279-a566-d09b38f19540" />
+<img width="3024" height="1901" alt="Image" src="https://github.com/user-attachments/assets/23c4660a-24be-4d39-828f-2ed8aba0b240" />
 
 | 요소 | 설명 |
 | --- | --- |
@@ -193,7 +193,7 @@
 
 ###### 3.3.2. 게임시작 후
 
-<img width="3022" height="1898" alt="Image" src="https://github.com/user-attachments/assets/240c2637-5299-4c38-96b4-8a8bbce5071c" />
+<img width="3032" height="1903" alt="Image" src="https://github.com/user-attachments/assets/e967199f-279c-4410-8ae1-13cc51df7e14" />
 
 | 요소 | 설명 |
 | --- | --- |
@@ -214,7 +214,7 @@
 
 ###### 3.3.3. 게임 종료
 
-<img width="3020" height="1712" alt="Image" src="https://github.com/user-attachments/assets/84702c70-7ec1-497b-97f1-94ea9ff8f63e" />
+<img width="3024" height="1902" alt="Image" src="https://github.com/user-attachments/assets/ed559e7a-c9f1-44f6-ba0b-c0d52551247c" />
 
 | 요소 | 설명 |
 | --- | --- |
